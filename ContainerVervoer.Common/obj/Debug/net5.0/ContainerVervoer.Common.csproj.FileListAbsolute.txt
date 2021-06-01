@@ -1,0 +1,12 @@
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/bin/Debug/net5.0/ContainerVervoer.Common.deps.json
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/bin/Debug/net5.0/ContainerVervoer.Common.dll
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/bin/Debug/net5.0/ref/ContainerVervoer.Common.dll
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/bin/Debug/net5.0/ContainerVervoer.Common.pdb
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.csprojAssemblyReference.cache
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.AssemblyInfoInputs.cache
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.AssemblyInfo.cs
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.csproj.CoreCompileInputs.cache
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.dll
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ref/ContainerVervoer.Common.dll
+/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/obj/Debug/net5.0/ContainerVervoer.Common.pdb

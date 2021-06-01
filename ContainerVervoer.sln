@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerVervoer", "ContainerVervoer\ContainerVervoer.csproj", "{E5F9CF25-661B-443F-99F8-B85EF219EA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerVervoer.Logic", "ContainerVervoer.Logic\ContainerVervoer.Logic.csproj", "{9F0A1B78-6E01-4D04-9520-8A2F0A248117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerVervoer.Common", "ContainerVervoer.Common\ContainerVervoer.Common.csproj", "{1468D2CB-0017-4F7C-9051-29E4285CF42F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerVervoer.Tests", "ContainerVervoer.Tests\ContainerVervoer.Tests.csproj", "{CF53D1A0-A5BC-418A-A669-1F14490090DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F9CF25-661B-443F-99F8-B85EF219EA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F9CF25-661B-443F-99F8-B85EF219EA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F9CF25-661B-443F-99F8-B85EF219EA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F9CF25-661B-443F-99F8-B85EF219EA39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0A1B78-6E01-4D04-9520-8A2F0A248117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0A1B78-6E01-4D04-9520-8A2F0A248117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0A1B78-6E01-4D04-9520-8A2F0A248117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0A1B78-6E01-4D04-9520-8A2F0A248117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1468D2CB-0017-4F7C-9051-29E4285CF42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1468D2CB-0017-4F7C-9051-29E4285CF42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1468D2CB-0017-4F7C-9051-29E4285CF42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1468D2CB-0017-4F7C-9051-29E4285CF42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF53D1A0-A5BC-418A-A669-1F14490090DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF53D1A0-A5BC-418A-A669-1F14490090DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF53D1A0-A5BC-418A-A669-1F14490090DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF53D1A0-A5BC-418A-A669-1F14490090DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

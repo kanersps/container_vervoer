@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ContainerVervoer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ContainerVervoer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContainerVervoer.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContainerVervoer.Common/1.0.0": {
+      "type": "project",
+      "path": "../ContainerVervoer.Common/ContainerVervoer.Common.csproj",
+      "msbuildProject": "../ContainerVervoer.Common/ContainerVervoer.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ContainerVervoer.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kanepetra/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Logic/ContainerVervoer.Logic.csproj",
+      "projectName": "ContainerVervoer.Logic",
+      "projectPath": "/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Logic/ContainerVervoer.Logic.csproj",
+      "packagesPath": "/Users/kanepetra/.nuget/packages/",
+      "outputPath": "/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Logic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kanepetra/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/ContainerVervoer.Common.csproj": {
+              "projectPath": "/Users/kanepetra/OneDrive - Office 365 Fontys/Software/Semester 2/ContainerVervoer/ContainerVervoer.Common/ContainerVervoer.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

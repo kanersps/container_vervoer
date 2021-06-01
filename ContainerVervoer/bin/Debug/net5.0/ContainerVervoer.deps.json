@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ContainerVervoer/1.0.0": {
+        "dependencies": {
+          "ContainerVervoer.Logic": "1.0.0"
+        },
+        "runtime": {
+          "ContainerVervoer.dll": {}
+        }
+      },
+      "ContainerVervoer.Common/1.0.0": {
+        "runtime": {
+          "ContainerVervoer.Common.dll": {}
+        }
+      },
+      "ContainerVervoer.Logic/1.0.0": {
+        "dependencies": {
+          "ContainerVervoer.Common": "1.0.0"
+        },
+        "runtime": {
+          "ContainerVervoer.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContainerVervoer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContainerVervoer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContainerVervoer.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
